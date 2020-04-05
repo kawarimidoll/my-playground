@@ -8,5 +8,8 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.23"
   }
 }
