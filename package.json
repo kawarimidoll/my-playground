@@ -1,9 +1,12 @@
 {
   "name": "@kawarimidoll/my-playground",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A repository for personal practice",
   "main": "index.js",
   "repository": "https://github.com/kawarimidoll/my-playground.git",
   "author": "kawarimidoll <kawarimidoll+git@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
